@@ -1,0 +1,23 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+nav,
+nav a {
+    text-transform: uppercase;
+    color: white;
+}
+
+nav a.active {
+    color: #475cfd;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #475cfd;
+
+}
+
+nav h5 {
+    font-weight: bold;
+}
